@@ -1,9 +1,9 @@
 # Bankist-Application
 ## How to use?
-Login using either of the accounts:  
+1. Login using either of the accounts:  
 User: js    Pin: 1111  
 User: jd    Pin: 2222  
-Welcome page contains:  
+2. Welcome page contains:  
 * Account statement  
 * Account summary   
 Deposits  
