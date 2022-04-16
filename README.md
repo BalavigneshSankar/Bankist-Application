@@ -15,7 +15,7 @@ Fund transfer
 Loan request  
 Account closure   
 
-Note:  
+**Note:**  
 * Date / Currency format is according to the country account holder belongs to. User "js" belongs to Europe and "jd" belongs to USA.    
 * Fund transfer possible to the account that is other than the login account and the amount transferred should be lesser than or equal to the net balance available.  
 * Loan amount approved after the set processing time, only if the respective account has a deposit which is atleast 10 percent of the requested amount.  
